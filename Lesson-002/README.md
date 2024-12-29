@@ -8,8 +8,8 @@ Welcome to Lesson 2! In this lesson, we will cover how to install Python on your
 
 Let’s dive in!
 
-[Installation](https://github.com/sheikh92areeb/learn-python/tree/main/Lesson-002/installation.md)
-[Issues](https://github.com/sheikh92areeb/learn-python/tree/main/Lesson-002/issues.md)
+-   [Installation](https://github.com/sheikh92areeb/learn-python/tree/main/Lesson-002/installation.md)
+-   [Issues](https://github.com/sheikh92areeb/learn-python/tree/main/Lesson-002/issues.md)
 
 ---
 

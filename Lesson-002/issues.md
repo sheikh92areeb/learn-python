@@ -1,6 +1,6 @@
 # Troubleshooting Common Issues
 
-## Issue 1: "Python Command Not Found"
+### Issue 1: "Python Command Not Found"
 
 -   Ensure Python is added to your system’s PATH environment variable.
 
@@ -9,11 +9,16 @@
 -   On Linux/macOS, use:
     ```bash
     export PATH="$PATH:/usr/local/bin/python3"
+
 ---
 
-## Issue 2: Old Python Version
+### Issue 2: Old Python Version
 
 -   Upgrade to the latest version:
     ```bash
     sudo apt upgrade python3    # For Ubuntu/Debian
     brew upgrade python         # For macOS
+
+---
+
+[Installation](https://github.com/sheikh92areeb/learn-python/tree/main/Lesson-002/installation.md)
