@@ -46,7 +46,7 @@
     ```bash
     python --version
 
-or
+-   or
     ```bash
     python3 --version
 
