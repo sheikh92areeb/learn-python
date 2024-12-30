@@ -62,4 +62,4 @@ print(type(c))
 
 ---
 
-## [Next Lesson>>](https://replit.com/@codewithharry/10-Day10-Taking-User-Input#main.py`)
+## [Next Lesson>>](https://github.com/sheikh92areeb/learn-python/tree/main/Lesson-010)
