@@ -90,4 +90,4 @@ For users comfortable with the terminal (especially macOS and Linux), you can in
 
 ---
 
-[Issues](https://github.com/sheikh92areeb/learn-python/tree/main/Lesson-002/issues.md)
+## [Issues](https://github.com/sheikh92areeb/learn-python/tree/main/Lesson-002/issues.md)
