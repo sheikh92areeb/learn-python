@@ -11,7 +11,9 @@ print("Mango is a", len1, "letter word.")
 ```
 
 ## Output:
+```
 Mango is a 5 letter word.
+```
 
 # String as an array
 A string is essentially a sequence of characters also called an array. Thus we can access the elements of this array. 
@@ -38,6 +40,7 @@ print(pie[5:])      #Slicing till End
 print(pie[2:6])     #Slicing in between
 print(pie[-8:])     #Slicing using negative index
 ```
+
 ## Output:
 ```
 Apple
