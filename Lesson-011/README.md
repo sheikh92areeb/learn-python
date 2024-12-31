@@ -57,7 +57,7 @@ for character in name:
 
 Above code prints all the characters in the string name one by one!
 
-Note: we will discuss Loops in Detail if Loops Chapter
+Note: we will discuss Loops in Detail in Loops Chapter
 
 [Code](https://github.com/sheikh92areeb/learn-python/tree/main/Lesson-011/main.py)
 
