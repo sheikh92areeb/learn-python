@@ -29,9 +29,9 @@ for x in colors:
 
 ## Output:
 ```
-Red\
-Green\
-Blue\
+Red
+Green
+Blue
 Yellow
 ```
 
@@ -50,11 +50,11 @@ for k in range(5):
 
 ## Output:
 ```
-0\
-1\
-2\
-3\
-4\
+0
+1
+2
+3
+4
 ```
 
 Here, we can see that the loop starts from 0 by default and increments at each iteration.
@@ -69,10 +69,10 @@ for k in range(4,9):
 
 ## Output:
 ```
-4\
-5\
-6\
-7\
+4
+5
+6
+7
 8
 ```
 
