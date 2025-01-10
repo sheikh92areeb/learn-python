@@ -1,4 +1,4 @@
-# Lesson 22 : List Methods
+# Lesson 23 : List Methods
 
 ## List Methods
 
