@@ -1,4 +1,4 @@
-# Lesson 24 : Tuple Methods
+# Lesson 25 : Tuple Methods
 
 ## Manipulating Tuples
 Tuples are immutable, hence if you want to add, remove or change tuple items, then first you must convert the tuple to a list. Then perform operation on that list and convert it back to tuple.
